@@ -131,7 +131,7 @@ export default {
   },
   data () {
     return {
-      currentPage: null,
+      currentPage: 1,
       defaultIconClass: {
         direction: 'fa fa-angle-left',
         boundary: 'fa fa-angle-double-left',
